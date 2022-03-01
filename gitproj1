@@ -2,3 +2,7 @@ ls
 ls-la
 dig
 netstat
+cat
+ssh
+telnet
+ping
