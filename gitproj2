@@ -1,0 +1,13 @@
+cat
+scp
+netstat
+ip addr
+dig
+chmode
+uame -r
+lsblk
+lcpu
+lshw
+grep
+top
+top -a
